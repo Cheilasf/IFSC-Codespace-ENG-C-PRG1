@@ -2,14 +2,15 @@
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
       <p style="text-align: center;">Bem vindos ao Repositório</p>
-      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">IFSC-Codespace-ENG-C-PRG1</a></p>
+      <p style="text-align: center;">IFSC-Codespace-ENG-C-PRG1</p>
+      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Ramon Mayor Martins</a></p>
     </td>
   </tr>
 </table>
 
 # IFSC-Codespace-ENG-C-PRG1
 
-Bem-vindos ao Repositório [IFSC-Codespace-ENG-C-PRG1](https://rmayormartins.github.io/)
+Bem-vindos ao Repositório [IFSC-Codespace-ENG-C-PRG1](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1)
 
 ## Sobre o Repositório
 
